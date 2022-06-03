@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ClientManagerFrontEnd/static/css/main.b6a9fc68.css",
+    "main.js": "/ClientManagerFrontEnd/static/js/main.112e0a6f.js",
+    "index.html": "/ClientManagerFrontEnd/index.html",
+    "main.b6a9fc68.css.map": "/ClientManagerFrontEnd/static/css/main.b6a9fc68.css.map",
+    "main.112e0a6f.js.map": "/ClientManagerFrontEnd/static/js/main.112e0a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6a9fc68.css",
+    "static/js/main.112e0a6f.js"
+  ]
+}
