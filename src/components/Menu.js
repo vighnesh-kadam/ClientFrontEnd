@@ -24,7 +24,7 @@ Display Client
   </Link>
   <Link to="/revenue" className="text-decoration-none flexbox-item-1" >
   <div className="box">
-View by Revenuee
+View by Revenuuee
 </div>
   </Link>
  
